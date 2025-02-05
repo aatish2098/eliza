@@ -22,7 +22,7 @@
 
 ## ✨ Features
 
-- 🛠️ Full-featured Discord, Twitter and Telegram connectors
+- 🛠️ Full-featured Discord, X (Twitter) and Telegram connectors
 - 🔗 Support for every model (Llama, Grok, OpenAI, Anthropic, Gemini, etc.)
 - 👥 Multi-agent and room support
 - 📚 Easily ingest and interact with your documents
@@ -149,6 +149,17 @@ pnpm install --include=optional sharp
 ### Start Eliza with Gitpod
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/elizaos/eliza/tree/main)
+
+---
+
+### Deploy Eliza in one click 
+
+Use [Fleek](https://fleek.xyz/eliza/) to deploy Eliza in one click. This opens Eliza to non-developers and provides the following options to build your agent:
+1. Start with a template
+2. Build characterfile from scratch
+3. Upload pre-made characterfile
+
+Click [here](https://fleek.xyz/eliza/) to get started!
 
 ---
 
